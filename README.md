@@ -10,5 +10,5 @@
 
 **Screen-1.0**
 
-<img src="https://github.com/Monishadhanasekar/Fitness-tracker-frontend/blob/main/screenshots/createuser.png" title="Screen-1.0"> 
+<img src="https://github.com/Monishadhanasekar/screen-1.0/blob/main/screenshots/screen-1.0.png" title="Screen-1.0"> 
 
